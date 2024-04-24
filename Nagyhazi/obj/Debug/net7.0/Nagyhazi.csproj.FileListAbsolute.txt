@@ -1,0 +1,14 @@
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\bin\Debug\net7.0\Nagyhazi.exe
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\bin\Debug\net7.0\Nagyhazi.deps.json
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\bin\Debug\net7.0\Nagyhazi.runtimeconfig.json
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\bin\Debug\net7.0\Nagyhazi.dll
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\bin\Debug\net7.0\Nagyhazi.pdb
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\obj\Debug\net7.0\Nagyhazi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\obj\Debug\net7.0\Nagyhazi.AssemblyInfoInputs.cache
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\obj\Debug\net7.0\Nagyhazi.AssemblyInfo.cs
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\obj\Debug\net7.0\Nagyhazi.csproj.CoreCompileInputs.cache
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\obj\Debug\net7.0\Nagyhazi.dll
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\obj\Debug\net7.0\refint\Nagyhazi.dll
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\obj\Debug\net7.0\Nagyhazi.pdb
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\obj\Debug\net7.0\Nagyhazi.genruntimeconfig.cache
+C:\Users\peper\OneDrive\Desktop\Nagyhazi\Nagyhazi\obj\Debug\net7.0\ref\Nagyhazi.dll
